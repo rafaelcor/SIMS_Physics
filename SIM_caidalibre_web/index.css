@@ -1,0 +1,66 @@
+#tvi{
+    position: absolute;
+    margin-top: 10px;
+
+}
+#vi{
+    position: absolute;
+    margin-top: 30px;
+
+}
+#uvi{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+
+
+#th{
+    position: absolute;
+    margin-top: 90px;
+
+}
+#h{
+    position: absolute;
+    margin-top: 120px;
+
+}
+#uh{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 25px;
+}
+
+
+
+#tg{
+    position: absolute;
+    margin-top: 180px;
+
+}
+#g{
+    position: absolute;
+    margin-top: 210px;
+
+}
+#ug{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 25px;
+
+}
+
+#comenzar{
+    position: absolute;
+    margin-top: 250px;
+
+}
+#reiniciar{
+    position: absolute;
+    margin-top: 290px;
+
+}
+
+
+
