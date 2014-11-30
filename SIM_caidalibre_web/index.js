@@ -238,6 +238,8 @@ $(document).ready(function() {
                                             hh = h-hh;
                                             //h = 90.0 - h;
                                             console.log("////H:" + hh + " m //t:"+ conts+" s");
+                                            $("#hLabel").html("Posici&oacute;n actual: " + hh + "m");
+                                            $("#tLabel").html("Tiempo: " + conts + "s");
                                                                                 //System.out.println("////V:" +  );
 										//t2.start();
 
